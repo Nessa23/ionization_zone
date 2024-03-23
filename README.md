@@ -1,1 +1,1 @@
-# Code to create ionization_zone for SII
+# Code to create ionization zone for SII
